@@ -1,0 +1,29 @@
+{
+  "name": "sandbox_project",
+  "version": "1.0.0",
+  "description": "This my personal playground!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramz225/sandbox.git"
+  },
+  "author": "Tayler Ramsay <ramsay.tayler@gmail.com> (http://taylerramsay.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramz225/sandbox/issues"
+  },
+  "homepage": "https://github.com/ramz225/sandbox#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compass": "^1.1.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-px-to-rem": "^0.4.0"
+  }
+}
